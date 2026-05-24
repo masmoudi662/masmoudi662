@@ -53,8 +53,8 @@
 
 - 🔬 **GSRA** @ University of Michigan – Flint (2025 – Present)
 - 🏫 **Teaching Assistant** @ University of Michigan – Flint (CSC 174, 275, 279)
-- 💻 **Web Developer Intern (PFE)** @ Createam Advertising Agency, Tunisia (2023)
-- 🎨 **Freelance Designer** @ TheKey (2023)
+- 💻 **Web Developer Intern (PFE)** @ Createam Advertising Agency, Tunisia (2024)
+- 🎨 **Freelance Designer** @ TheKey (2024)
 
 ---
 
